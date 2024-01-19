@@ -1,0 +1,207 @@
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.exe.config
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.exe
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.pdb
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.Properties.Resources.resources
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.exe
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.pdb
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Buffers.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Memory.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Json.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.ValueTuple.dll
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Buffers.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Memory.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Json.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\bin\Debug\System.ValueTuple.xml
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.AgregarProducto.resources
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.Inicio.resources
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarP.resources
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarU.resources
+C:\Users\usuario\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.Registro.resources
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.exe.config
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.exe
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.pdb
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Buffers.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Memory.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Json.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.ValueTuple.dll
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Buffers.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Memory.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Json.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\bin\Debug\System.ValueTuple.xml
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.AssemblyReference.cache
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.AgregarProducto.resources
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarP.resources
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarU.resources
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.Properties.Resources.resources
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.Registro.resources
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.GenerateResource.cache
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.CoreCompileInputs.cache
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.exe
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.pdb
+C:\Users\DANIELA BUSTAMANTE\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.InterfazAdmin.resources
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.exe.config
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.exe
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\Proyectointe.pdb
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Buffers.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Memory.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Json.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.ValueTuple.dll
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Buffers.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Memory.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Text.Json.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\bin\Debug\System.ValueTuple.xml
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.AssemblyReference.cache
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.AgregarProducto.resources
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarP.resources
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarU.resources
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.Properties.Resources.resources
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.Registro.resources
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.GenerateResource.cache
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.csproj.CoreCompileInputs.cache
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.exe
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.pdb
+C:\Users\familia bonita\source\repos\Proyectointe\Proyectointe\obj\Debug\Proyectointe.InterfazAdmin.resources
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Proyectointe.exe.config
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Proyectointe.exe
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Proyectointe.pdb
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Buffers.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Memory.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Text.Json.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.ValueTuple.dll
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Buffers.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Memory.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Text.Json.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.ValueTuple.xml
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.csproj.AssemblyReference.cache
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.AgregarProducto.resources
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarP.resources
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarU.resources
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.InterfazAdmin.resources
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.Properties.Resources.resources
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.Registro.resources
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.csproj.GenerateResource.cache
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.csproj.CoreCompileInputs.cache
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.exe
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.pdb
+C:\Users\familia bonita\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.Productocomprar.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Proyectointe.exe.config
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Proyectointe.exe
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Proyectointe.pdb
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Buffers.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Memory.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Text.Json.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.ValueTuple.dll
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Buffers.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Memory.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Text.Json.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\bin\Debug\System.ValueTuple.xml
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.AgregarProducto.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarP.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarU.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.InterfazAdmin.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.Properties.Resources.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.Registro.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.Productocomprar.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.exe
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.pdb
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.Calificar.resources
+C:\Users\usuario\source\repos\Proyectointe - copia\Proyectointe\obj\Debug\Proyectointe.GestionarCalificacion.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\Proyectointe.exe.config
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\Proyectointe.exe
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\Proyectointe.pdb
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Buffers.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Memory.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Text.Json.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.ValueTuple.dll
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Buffers.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Memory.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Text.Json.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\bin\Debug\System.ValueTuple.xml
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.AgregarProducto.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.Calificar.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.GestionarCalificacion.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarP.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.ModificarEliminarU.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.InterfazAdmin.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.Properties.Resources.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.Registro.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.Productocomprar.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.exe
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.pdb
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.comprar.resources
+C:\Users\usuario\source\repos\Proyectointe - copia - copia\Proyectointe\obj\Debug\Proyectointe.ConsultarCalificacion.resources
